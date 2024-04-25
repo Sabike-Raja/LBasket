@@ -1,6 +1,6 @@
 // file used for for keep the constant values
 
-export default {
+export const Routes = {
   frontEndRoutes: {
     homePage: "/home",
   },
@@ -75,3 +75,5 @@ export default {
     },
   ],
 };
+
+export default Routes
